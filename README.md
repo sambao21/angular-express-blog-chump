@@ -3,6 +3,8 @@ angular-express-blog-chump
 
 A blog built using nodejs + express + angularjs. Taken from http://briantford.com/blog/angular-express.html
 
+Deployable to Heroku.
+
 # Angular Express Seed
 
 Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
