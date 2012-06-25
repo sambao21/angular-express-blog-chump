@@ -46,7 +46,7 @@ app.put('/api/post/:id', api.editPost);
 app.delete('/api/post/:id', api.deletePost);
 
 // redirect all others to the index (HTML5 history)
-app.get('*', routes.index);
+//app.get('*', routes.index);
 
 // Start server
 
